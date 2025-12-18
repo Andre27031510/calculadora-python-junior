@@ -67,38 +67,29 @@ git clone https://github.com/Andre27031510/calculadora-python-junior.git
 # Entre no diretório
 cd calculadora-python-junior
 
-# Execute a versão gráfica (padrão)
-python def025.py
-
-# Para versão terminal, altere a última linha do código:
-# calculadora_grafica() → calculadora()
+# Execute
+python calculadora_junior.py
 ```
 
 ---
 
 ## 📸 Screenshots
 
-### Resultado
-![Calculo](screenshots/resultado.png)
-*Interface gráfica moderna com layout de grade profissional*
+### Menu Principal
+![Menu](screenshots/Menu.png)
+*Interface principal com todas as operações disponíveis*
 
-### Menu Terminal
-![Terminal](screenshots/menu.png)
-*Interface de terminal com menu numerado intuitivo*
+### Realizando Cálculos
+![Cálculo](screenshots/Resultado.png)
+*Exemplo de operação matemática sendo executada*
 
 ### Histórico de Operações
-![Histórico GUI](screenshots/historico.png)
-*Pop-up de histórico na versão gráfica*
-
-![Histórico Terminal](screenshots/historico.png)
-*Histórico completo na versão terminal*
+![Histórico](screenshots/Historico.png)
+*Visualização completa do histórico de cálculos*
 
 ### Tratamento de Erros
-![Erro GUI](screenshots/erro.png)
-*Tratamento de erros na interface gráfica*
-
-![Erro Terminal](screenshots/erro.png)
-*Validação robusta na versão terminal*
+![Erro](screenshots/Erro.png)
+*Sistema robusto com validação e tratamento de erros*
 
 ---
 
@@ -126,21 +117,10 @@ python def025.py
 
 ## 👨💻 Autor
 
-**André** - [GitHub](https://github.com/Andre27031510)
-
-*Desenvolvedor Python em formação, focado em criar soluções práticas e bem estruturadas*
+**André** - [GitHub](https://github.com/Andre27031510/calculadora-python-junior.git)
 
 ---
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 🔄 Versões
-
-- **v1.0** - Calculadora terminal básica
-- **v2.0** - Interface gráfica adicionada
-- **v2.1** - Histórico implementado em ambas interfaces
-- **v2.2** - Layout otimizado e tratamento de erros aprimorado
